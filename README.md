@@ -61,9 +61,11 @@ print(list_of_nums)
 
 ## Output:
 i)	#Selection Sort
+
 ![image](https://github.com/Lingeswaran04/Sorting-Algorithm/assets/119103865/fdce80cb-c2d5-4d0a-a7fe-7886c7e1f686)
 
 ii)	#Insertion Sort
+
 ![image](https://github.com/Lingeswaran04/Sorting-Algorithm/assets/119103865/cf75fad2-d359-4123-93a9-f3c3977dbfcb)
 
 
